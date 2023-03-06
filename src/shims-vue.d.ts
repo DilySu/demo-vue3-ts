@@ -4,3 +4,8 @@ declare module '*.vue' {
   const component: DefineComponent<{}, {}, any>
   export default component
 }
+declare module "echarts";
+declare module "*.js";
+declare module "*.json";
+declare module "*.gif";
+declare module "*.ts";
