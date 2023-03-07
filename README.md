@@ -1,5 +1,18 @@
 # demo-vue3-ts
 
+## 技术栈
+* vue3
+* axios
+* echarts
+* vue-router
+* vuex
+* element-plus
+* typescript
+* sass
+* eslint 
+* prettier
+* webpack
+
 ## Project setup
 ```
 yarn install
